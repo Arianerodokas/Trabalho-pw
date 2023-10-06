@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "label": "Morango"
+    },
+
+    {
+        "id": 2,
+        "label": "Laranja"
+    },
+
+    {
+        "id": 3,
+        "label": "Limonada"
+    },
+
+    {
+        "id": 4,
+        "label": "Maracujá"
+    },
+
+    {
+        "id": 5,
+        "label": "Melancia"
+    },
+
+    {
+        "id": 6,
+        "label": "Abacaxi"
+    },
+
+    {
+        "id": 7,
+        "label": "Acelora"
+    },
+
+    {
+        "id": 8,
+        "label": "Maçã"
+    }
+
+    
+
+]
